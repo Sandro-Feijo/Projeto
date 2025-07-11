@@ -1,0 +1,45 @@
+Log #1
+
+inicio do projeto e conversa inicial sobre ideias ao final da aula com stakeholder
+
+Log #2
+
+interação inicial com o grupo sobre metodologias a se usar ao longo do projeto
+
+Log #3
+
+brainstorm para levantar ideias de implementação com a finalidade de filtrar durante a reunião de levantamento de requisitos
+
+Log #4
+
+reunião de levantamento de requisitos aos quais foram escritos em papel presente como <imagem 1>
+
+Log #5
+
+Organização de requisitos em material temporário salvo em um arquivo google docs para acesso compartilhado, esboço inicial do diagrama de classe
+
+Log #6
+
+Segunda reunião com o stakeholder ao final de um atendimento, duvidas gerais sobre o material temporária com o intuito de refina lo
+
+Log #7 
+
+Material temporário alterado para requisitos "levantados na primeira reunião"
+
+Log #8
+
+criação da primeira versão do diagrama de caso de uso e diagrama de classe
+
+
+Log #9
+
+apresentação do feedback para o stakeholder , mudanças no caso de uso recomendadas para ter apenas o ator aluno(sistema era uma ator inicial), UML necessita de mais aprofundamento
+
+
+Log #10
+
+Organização e primeira versão do scrum aplicada sobre o trello
+
+Log #11
+
+alteração do grupo e processo de adaptação do modelo ágil
