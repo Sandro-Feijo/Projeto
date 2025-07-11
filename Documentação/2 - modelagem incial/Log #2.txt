@@ -1,0 +1,36 @@
+Log #1
+
+correção dos diagramas de caso de uso e diagrama de classe
+
+Log #2
+
+Contato com o stakeholder via e-mail, para duvidas sobre artefatos da sprint 2
+
+Log #3
+
+Retorno sobre as duvidas iniciais, e optação pelo uso da UML(diagramas feitos antes), como artefatos da sprint
+
+Log #4
+
+uso do sketch book físico para desenvolver a GUI do programa, aplicação dos conceitos de desenhos da simplificação (desenho livre(gerar material) -> controle de over design(apagar componentes desnecessários para não ter lós que redesenhar a cada nova interação)->avaliação ->(verificar se a interface bate com a ideia inicial, mas não deixa la fechada a melhorias futuras))
+
+log #5
+
+atribuição de funcionalidades ao sketch do GUI do programa, para uma modelagem comportamental (botões ganham o nome de novo, editar e carregar)
+
+log #6
+
+Aplicar o processo para o botão novo, desenho livre ->(ideia central da tela),controle de over design->(abstração do curso e versão do currículo para limitar a apenas o curso de EC e a esse ppc, como levantado com stakeholder em um outro momento sobre a complexidade que se encaixa dentro de um semestre), avaliação ->(validação parcial, sendo pensado futuras mudanças)
+
+log #7
+
+aplicar o processo parcial para botão editar, em aguardo para implementação
+
+log #8
+
+deixar carregar em aguardo devido a questionar se há redundância, possivelmente outra função venha substituir
+
+
+log #9
+
+escolha de imagem de background, avaliação e reflexão entre o uso de sprites e gif, gif foi selecionado pela facilidade de importação
