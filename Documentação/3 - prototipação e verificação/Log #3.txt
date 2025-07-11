@@ -1,0 +1,57 @@
+Log #1
+
+Planejamento de implementação, considerando a redundância de obrigatórios e complementares
+
+Log #2
+
+estudo inicial sobre as bibliotecas Java e implementação de sprites e imagens, material do canal breckeys: https://www.youtube.com/@Brackeys
+
+Log #3
+
+implementação das classes do diagrama de classe, escolha e testes com arquivos .csv como bancos de dados temporário
+
+Log #4
+
+acesso e extração dos componentes necessários para o histórico do PPC da engenharia de computação
+
+Log #5
+
+teste de leitura formatação e verificação de leitura de cada componente
+
+Log #6
+
+teste de leitura separação e leitura de cada dado separadamente, nome,horas,creditos,requisito 1,2,3,4 - primeiro teste com falha
+
+Log #7
+
+manutenção da classe de leitura pata ler e contar números de virgulas reconhecendo a partir disso a identidade de cada campo
+
+Log #8
+
+Separação entre componentes obrigatórios e Complementares, Componentes extraclasse ainda não possuem um implementação definida
+
+Log #9
+
+reunião indireta com o stackehold pos aula, discussão sobre biblioteca swing
+
+Log #10
+
+estudo sobre biblioteca swing, site stackoverflow : https://stackoverflow.com/questions/tagged/swing
+
+Log #11
+
+implementação parcial do GUI em base nos sketchs desenvolvidos
+
+Log #12
+
+Teste de funcionalidades em editar aluno, optasse por usar o botão next dividindo obrigatórios, complementares e extraclasse
+
+Log #13
+
+primeiro modelo funcional com marcação de classes a escolha do usuário, inicio da criação de um protótipo
+
+Log #14
+
+Reunião com o stakeholder com o protótipo, mudanças a serem feitas: impressão de histórico, melhor organização a editar, ter um limite de 3 complementares, dar a opção de entrar com uma nova complementar que não esteja no banco de dados, diminuir a escrita e dependência constante de arquivos de text
+
+
