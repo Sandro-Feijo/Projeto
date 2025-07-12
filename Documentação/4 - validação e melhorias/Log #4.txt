@@ -1,0 +1,65 @@
+Log #1
+
+inicio das melhorias pôs feedback, o sketch da GUI é alterado de forma que editar, abrira uma janela para escolher entre complementares, obrigatórias e extraclasse ao invés de serem janelas sequentes, botão "carregar" passa a ser "imprimir"
+
+
+Log #2
+
+complementares agora iram verificar se já foram cadastra 3 delas no banco de dados(.csv) e travar opções de adicionar mais caso sim
+
+Log #3
+
+teste de usuário, familiar foi fornecido com a versão atual feedback: ausência de aparecer na tela ao invés de imprimir e ter que abrir o arquivo para ler bugs descobertos: nome e matricula não salvam, a tela abre novamente após tentar fechar de novo
+
+Log #4
+
+nome agora salva corretamente em objeto aluno, bug de abrir novamente após fechar ainda persiste
+
+Log #5
+
+Descoberto bug no nome, não esta sendo salvo no banco de dados, bug da janela persiste, mudança de imprimir para exibir, skecth book chega ao Gui Final do projeto
+
+Log #6
+
+Bug do aluno solucionado, bug da tela solucionada era referente a declarar componentes da mesma de forma inapropriada dentro do construtor
+
+Log #7
+
+teste de Usuario 2, um contato de um grupo do discord testou a versão atual, a expectativa era que alguém mais familiarizado com  uma GUI conseguisse encontrar mais falhas, Feedback: falta de informação sobre quais complementares foram selecionadas na tela, tanto matérias recomendadas como matérias pendentes fazem a mesma coisa(se vc tiver algo pendente vai ganhar prioridade na recomendação), falta do uso dos requisitos para travar nem que seja alguma coisa em obrigatórias Bugs: novo aluno so muda o nome mas não limpa dados
+
+Log #8
+
+Alterações no sketch da GUI para lidar com os problemas citados
+
+Log #9
+
+implementação de um side screen com itens selecionados, Bugs na logica de travar e liberar matérias com pre requerimentos, atualização para zerar aluno quando criar novo
+
+Log #10
+
+Bug de matérias solucionados, inicio da aplicação e atualização em tempo real a marcação, impressão de mensagens System out para manter a organização
+
+Log #11
+
+Teste de usuário final, a ideia era ter as mesmas duas pessoas que testaram visto que tinham familiaridade diferentes com programas, assim como garantir um feedback de evolução, feedback: novo aluno não possui uma forma de voltar ou de cancelar o processo, se esperaria além disso uma mensagem de confirmação "você quer mesmo sobrescrever ou algo do tipo", seria bom indicar o requisito ao passar o mouse, ou de outra forma Bugs: Nenhum encontrado ou informado
+
+Log #12
+
+implementação de verificação para diminuir o uso de texto e lidar com um problema de implementação o program apenas acessara o obj aluno, e caso o mesmo esteja vazio ira receber os parâmetros do .csv diminuído o numero de leituras
+
+
+Log #13
+
+Novo aluno possui as devidas proteções para evitar que o usuário delete tudo por engano
+
+Log #14
+
+passar tudo para git e confirmar
+
+Log #15
+
+apresentação de trabalho e feedbacks finais do stakeholder, aos quais além das melhorias ainda não empregadas, foi sugerido um diagrama de sequencia que foque em funcionalidades separadas para melhor leitura e apresentação. ao invés de um único grande diagrama, notou se também que poderia ocorrer uma melhora no diagrama de caso de uso visto que algumas mudanças foram empregadas ao longo do caminho
+
+Log #16
+
+diagrama de caso de uso atualizado, para indicar apenas as opções atualizar profile gera(indica para obrigatórias complementares e extraclasse agora) mudanças em exibir profile para agora refletir a união o mesmo numero de telas passou de exibir recomendadas, exibir informação e exibir pendencias, para apenas exibir informação e exibir recomendadas(devido a redundância entre exibir recomendadas e exibir pendentes pontuada anteriormente)
